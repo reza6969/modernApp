@@ -9,6 +9,7 @@
 # https://ionicframework.com/docs/components
 # ionic g service services/movie
 # ionic g page details
+# ionic g page home-defer
 # To follow along with this tutorial, you also need to get an API key for the The Movie Database API.
 # https://developer.themoviedb.org/docs/getting-started
 # https://www.themoviedb.org/settings/api
