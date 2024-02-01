@@ -16,6 +16,8 @@
 # https://www.themoviedb.org/u/reza6969
 To use Typescript in the best possible way, I like to generate Typescript interfaces based on JSON responses from APIs using
 # https://marketplace.visualstudio.com/items?itemName=MariusAlchimavicius.json-to-ts
+The last thing uses a deferred block – one of the coolest additions of Angular 17!
+# https://angular.io/api/core/defer
 # Approve Terms of Use
 Use of The Movie Database's (https://www.themoviedb.org/, operated by TiVo Platform Technologies LLC, "TMDB", "We", "Us", or "Our") application programming interfaces ("TMDB APIs") are subject to the terms and conditions set forth below ("API Terms of Use").
 
